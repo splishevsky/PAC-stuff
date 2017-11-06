@@ -1,0 +1,28 @@
+# Wavefront OBJ exported by MilkShape 3D
+
+mtllib hl1shotgun_HOLE.mtl
+
+v 20.400000 3.700000 -1.070000
+v 20.410000 5.530000 -1.020000
+v 20.410000 5.530000 1.020000
+v 20.400000 3.700000 1.070000
+# 4 vertices
+
+vt 0.000000 0.000000
+vt 0.875000 -0.875000
+vt 0.875000 0.000000
+vt 0.000000 -0.875000
+# 4 texture coordinates
+
+vn 1.000000 -0.000800 0.000000
+# 1 normals
+
+g studio.wrld_shotgun.mesh_2
+usemtl material_2
+s 1
+f 3/1/1 1/2/1 2/3/1
+f 4/4/1 1/2/1 3/1/1
+# 2 triangles in group
+
+# 2 triangles total
+
